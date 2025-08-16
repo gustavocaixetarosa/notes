@@ -4,4 +4,4 @@
 # Desta forma sera possivel editar e produzir cortes. Se gostou ja joga no chat os melhores momentos, na sua opiniao.
 
 1 - 15h - git e suas configuracoes
-
+2 - 16:13 - import de funcoes de outros arquivos
