@@ -1,0 +1,4 @@
+*** TEMAS DA LIVE ***
+
+# Este arquivo contem os temas de cada live e o horario. 
+# Desta forma sera possivel editar e produzir cortes. Se gostou ja joga no chat os melhores momentos, na sua opiniao.

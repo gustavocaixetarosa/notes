@@ -1,0 +1,6 @@
+*** TODO LIST ***
+
+1. Limpar arquivos do download 
+2. Lembrar das coisas
+3. Anotar temas da live
+
