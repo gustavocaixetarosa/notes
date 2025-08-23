@@ -1,0 +1,8 @@
+1. Gerar relatorios
+  . percentual pontualidade por periodo
+  . inadimplencia por periodo
+  . media de dias de atrasado
+  . tudo isso por carteira
+  . os contratos vencem em tal data
+  . proximos a vencer 
+  . renda mensal 
