@@ -1,0 +1,7 @@
+Primeiras dicas do livro envolve uma serie de mandamentos. Um deles é que o código deve ser reutilizado e não copiado. A respeito disso, acredito que ele esteja falando dos momentos em que visitamos outros códigos para lembrar como fei feito. Nesse caso, deveríamos estar utlizando o código que estamos copiando por meio de um pacote ou programa.
+
+A próxima dica diz respeito a criar métodos de fábrica estáticos. Seriam métodos que retornam uma instância da classe. Desta forma, temos preferência por utilizar um método estático que pode ter um nome altamente descritivo. Diferente do construtor, esses métodos fariam mais sentido para construirmos objetos que necessitam de atributos diferentes.
+
+Outra vantagem desta abordagem, seria o retorno de objetos estáticos. A classe Boolean apresenta somente dois estados possiveis. Pensandon nisso, podemos instanciar esses objetos e, sempre que preciso, podemos retornar Boolean.TRUE ou Boolean.False, podendo economizar memória. Imagine tem 500 objetos com sim ou não.
+
+
