@@ -4,4 +4,5 @@
 2. Lembrar das coisas
 3. Anotar temas da live
 4. Ler Os Buddenbrook
+5. Criar um programa em bash que cria uma nova nota com o intuito de fazer notas e abrir o vim com um texto pre escrito com a data e horario e talvez ate outras coisas.
 

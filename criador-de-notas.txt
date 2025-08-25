@@ -1,0 +1,6 @@
+Ideia para app
+
+programa que cria uma nota e gerencia as outras que temos. Pode incluir opcao de data e, ao roda-lo, exibe quantas notas tem para hoje.
+
+comando customizado para imprimir notas como todo-list
+
