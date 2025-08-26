@@ -1,0 +1,3 @@
+Threads permitem o revezamento entre o mesmo programa. Você divide tarefas em processos menores e que não bloqueam um ao outro. Dessa forma temos um progresso mais uniforme.
+
+Programas de processamento em lote podem se beneficiar da ideia de escrever a partir do ultimo escrito.
