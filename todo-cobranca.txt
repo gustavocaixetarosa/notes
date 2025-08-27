@@ -1,0 +1,35 @@
+Gerar relatorios:
+ {
+   Uma conta so
+   
+  inadimplencia de um cliente em um determinado periodo  (quantidade de pagamentos)
+  inadimplencia de um cliente na historia
+  inadimplencia de um cliente mes a mes
+
+  percentual de pontualidade dos contratos de um cliente em um determinado periodo 
+  percentual de pontualidade dos contratos de um cliente na historia 
+  percentual de pontualidade dos contratos de um cliente mes a mes
+
+ }
+
+  media de dias de atraso dos contratos de um cliente em um determinado periodo 
+  media de dias de atraso dos contratos de um cliente na historia
+  media de dias de atraso dos contratos de um cliente mes a mes
+
+  media de dias de antecipacao dos contratos de um cliente em um determinado periodo 
+  media de dias de antecipacao dos contratos de um cliente na historia
+  media de dias de antecipacao dos contratos de um cliente mes a mes
+
+
+  quantidade de contratos e pagamentos e valores previstos para o proximo ano a partir de hoje
+
+
+Definicao de termos:
+  
+  inadimplencia -> atraso de no minimo um dia no pagamento de uma parcela 
+
+  pontualidade -> pagamentos realizados antes do vencimento
+
+
+  total = indimplentes + pontuais
+
